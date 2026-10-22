@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Voorraadbeheer.Tests/Voorraadbeheer.Tests.csproj" />
+  <Project Path="Voorraadbeheer/Voorraadbeheer.csproj" />
+</Solution>
